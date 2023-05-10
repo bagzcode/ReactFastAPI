@@ -70,6 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### the package that use for this application are:
+
 ├── @testing-library/jest-dom@5.16.5
 ├── @testing-library/react@13.4.0
 ├── @testing-library/user-event@13.5.0
@@ -81,3 +82,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ├── react-scripts@5.0.1
 ├── react@18.2.0
 └── web-vitals@2.1.4
+
+Please make sure you have install all te dependancy and have node_modules folder in the app

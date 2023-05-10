@@ -7,3 +7,5 @@ FrontEnd/node_modules/
 BckEnd/__pycache__
 
 .DS_Store
+
+.vscode
