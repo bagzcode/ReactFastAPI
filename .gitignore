@@ -1,0 +1,9 @@
+#ignore the node package fro FrontEnd
+
+FrontEnd/node_modules/
+
+#ignore pycache
+
+BckEnd/__pycache__
+
+.DS_Store
